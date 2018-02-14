@@ -1,0 +1,26 @@
+{
+  "name": "cnd2",
+  "version": "1.0.0",
+  "description": "CND Part 2 app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nada"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianlinuxing/CND2.git"
+  },
+  "keywords": [
+    "IBM"
+  ],
+  "author": "Brian Linuxing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianlinuxing/CND2/issues"
+  },
+  "homepage": "https://github.com/brianlinuxing/CND2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
